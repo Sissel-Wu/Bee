@@ -1,0 +1,1 @@
+Format string from YYYY-MM-DD to YYYYMMDD.

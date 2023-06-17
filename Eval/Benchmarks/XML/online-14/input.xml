@@ -1,0 +1,19 @@
+<root>
+<item name="biblio">
+<column name="topic1">Topic</column>
+<column name="topic2">Topic</column>
+<column name="topic3">Topic</column>
+<column name="topic4">Topic</column>
+<column name="topic5">Topic</column>
+</item>
+<item name="biblio-2">
+<column name="topic1">Topic</column>
+</item>
+<item name="biblio-3">
+<column name="topic1">Topic</column>
+<column name="topic2">Topic</column>
+<column name="topic3">Topic</column>
+</item>
+<item name="biblio-4">
+</item>
+</root>

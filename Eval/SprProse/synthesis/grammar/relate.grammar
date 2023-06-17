@@ -1,0 +1,17 @@
+using SprProse;
+using semantics SprProse.synthesis.RelateSemantics;
+using learners SprProse.synthesis.RelateWitnesses;
+
+language relateSpr;
+
+@input SprSheet inputSpr;
+
+@start SprSheet componentPrograms := Cons(componentProgram, componentPrograms) | EmptyProgram();
+IEnumerable<Tuple<Tuple<Coord, string>, Tuple<Coord, string>>> componentProgram := filterProgram | assocProgram;
+
+IEnumerable<Tuple<Tuple<Coord, string>, Tuple<Coord, string>>> filterProgram := FilterWith(inputSpr, mapCond, sequence);
+IEnumerable<Tuple<Tuple<Coord, string>, Tuple<Coord, string>>> assocProgram  := Associate(componentProgram, relFunc, relFunc, inputSpr);
+
+IPred mapCond;
+IRelFunc relFunc;
+SequenceMaker sequence;

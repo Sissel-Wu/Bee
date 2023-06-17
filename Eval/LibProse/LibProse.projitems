@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>e2fe40ad-73d0-4804-b1ad-f78cdd57e954</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>LibProse</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)hades\CoalescedForm.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)hades\Feature.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)hades\HDTNode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)hades\HDTPath.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)hades\HDTTree.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)hades\IdMap.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)hades\Mapper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)hades\PathTerm.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)hades\Pred.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)hades\SegmentTerm.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)hades\SummarizedForm.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)synthesis\DecisionTree.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)synthesis\TransformLearner.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)synthesis\PathTermsCache.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)synthesis\CommonDeductions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)synthesis\Z3Solving.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)utils\TestUtils.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)utils\Utils.cs" />
+  </ItemGroup>
+</Project>

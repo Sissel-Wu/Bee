@@ -1,0 +1,19 @@
+<root>
+    <item>
+        <para>Parent Paragraph:
+            <sequentialList>
+                <listItem><para>Subordinate Para1</para></listItem>
+                <listItem><para>Subordinate Para2</para></listItem>
+                <listItem><para>Subordinate Para3</para></listItem>
+            </sequentialList>
+        </para>
+    </item>
+    <item>
+        <para>Parent Paragraph:
+            <sequentialList>
+                <listItem><para>Subordinate Para4</para></listItem>
+                <listItem><para>Subordinate Para5</para></listItem>
+            </sequentialList>
+        </para>
+    </item>
+</root>

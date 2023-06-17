@@ -1,0 +1,1 @@
+Append “lgst” to name of largest file and “sml” to xml files ≤ 99B

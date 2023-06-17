@@ -1,0 +1,3 @@
+modifyAttribute a2 taskCreateNewUser.dita#topicID
+modifyAttribute a5 taskCreateNewUser.aaaa#topicID
+modifyAttribute a8 taskCreateNewUser.bbbb#topicID

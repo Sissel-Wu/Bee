@@ -1,0 +1,44 @@
+i1,1,1,Start Date,Bill,black,white,2020/3/1,FALSE,TRUE
+i2,1,2,Age,Bill,black,white,21.0,FALSE,TRUE
+i3,1,3,Role,Bill,black,white,cleaner,FALSE,TRUE
+i4,1,4,Employment Status,Bill,black,white,Active,FALSE,TRUE
+i5,2,1,Start Date,Bob,black,white,2020/3/2,FALSE,TRUE
+i6,2,2,Age,Bob,black,white,21.0,FALSE,TRUE
+i7,2,3,Role,Bob,black,white,builder,FALSE,TRUE
+i8,2,4,Employment Status,Bob,black,white,Inactive,FALSE,TRUE
+i9,3,1,Start Date,Darren,black,white,2020/3/3,FALSE,TRUE
+i10,3,2,Age,Darren,black,white,21.0,FALSE,TRUE
+i11,3,3,Role,Darren,black,white,driver,FALSE,TRUE
+i12,3,4,Employment Status,Darren,black,white,Inactive,FALSE,TRUE
+i13,4,1,Start Date,Leon,black,white,2020/3/4,FALSE,TRUE
+i14,4,2,Age,Leon,black,white,21.0,FALSE,TRUE
+i15,4,3,Role,Leon,black,white,director,FALSE,TRUE
+i16,4,4,Employment Status,Leon,black,white,Inactive,FALSE,TRUE
+i17,5,1,Start Date,Mick,black,white,2020/3/5,FALSE,TRUE
+i18,5,2,Age,Mick,black,white,21.0,FALSE,TRUE
+i19,5,3,Role,Mick,black,white,mechanic,FALSE,TRUE
+i20,5,4,Employment Status,Mick,black,white,Inactive,FALSE,TRUE
+i21,6,1,Start Date,Mike,black,white,2020/3/6,FALSE,TRUE
+i22,6,2,Age,Mike,black,white,21.0,FALSE,TRUE
+i23,6,3,Role,Mike,black,white,driver,FALSE,TRUE
+i24,6,4,Employment Status,Mike,black,white,Active,FALSE,TRUE
+i25,7,1,Start Date,Ben,black,white,2020/3/7,FALSE,TRUE
+i26,7,2,Age,Ben,black,white,21.0,FALSE,TRUE
+i27,7,3,Role,Ben,black,white,cleaner,FALSE,TRUE
+i28,7,4,Employment Status,Ben,black,white,Active,FALSE,TRUE
+i29,8,1,Start Date,Jeremy,black,white,2020/3/8,FALSE,TRUE
+i30,8,2,Age,Jeremy,black,white,21.0,FALSE,TRUE
+i31,8,3,Role,Jeremy,black,white,director,FALSE,TRUE
+i32,8,4,Employment Status,Jeremy,black,white,Active,FALSE,TRUE
+i33,9,1,Start Date,Andy,black,white,2020/3/9,FALSE,TRUE
+i34,9,2,Age,Andy,black,white,21.0,FALSE,TRUE
+i35,9,3,Role,Andy,black,white,driver,FALSE,TRUE
+i36,9,4,Employment Status,Andy,black,white,Active,FALSE,TRUE
+i37,10,1,Start Date,John,black,white,2020/3/10,FALSE,TRUE
+i38,10,2,Age,John,black,white,21.0,FALSE,TRUE
+i39,10,3,Role,John,black,white,builder,FALSE,TRUE
+i40,10,4,Employment Status,John,black,white,Active,FALSE,TRUE
+i41,11,1,Start Date,Jill,black,white,2020/3/11,FALSE,TRUE
+i42,11,2,Age,Jill,black,white,21.0,FALSE,TRUE
+i43,11,3,Role,Jill,black,white,builder,FALSE,TRUE
+i44,11,4,Employment Status,Jill,black,white,Active,FALSE,TRUE

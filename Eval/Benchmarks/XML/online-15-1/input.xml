@@ -1,0 +1,16 @@
+<root>
+	<item>
+		<HearingDate>07/07/2015</HearingDate>
+		<CourtSessionBlock>
+			<StartTime>10:30AM</StartTime>
+			<EndTime>11:00AM</EndTime>
+		</CourtSessionBlock>
+	</item>
+	<item>
+		<HearingDate>09/08/2016</HearingDate>
+		<CourtSessionBlock>
+			<StartTime>17:24AM</StartTime>
+			<EndTime>18:34AM</EndTime>
+		</CourtSessionBlock>
+	</item>
+</root>

@@ -1,0 +1,13 @@
+{
+  "const strings": ["sml", "lgst", "xml"],
+  "const ints": [99],
+  "bee": {
+    "input example": "input.csv",
+    "output example": "actions"
+  },
+  "prose": {
+    "input example": "input.csv",
+    "output example": "output.csv",
+    "path mapping": "path_mapping"
+  }
+}

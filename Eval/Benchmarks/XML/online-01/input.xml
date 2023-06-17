@@ -1,0 +1,33 @@
+<root>
+  <item name="Bonny" size="">
+    <title></title>
+    <artist>Bonnie Tyler</artist>
+    <country>UK</country>
+    <company>CBS Records</company>
+    <price>19.90</price>
+    <year>1928</year>
+  </item>
+  <item name="Bonny" size="">
+    <title>Bonny</title>
+    <artist>Bonnie Tyler</artist>
+    <country>UK</country>
+    <company>CBS Records</company>
+    <price>19.90</price>
+    <year>1928</year>
+  </item>
+  <item name="Alice" size="">
+    <title>Alice</title>
+    <artist>Alice Tyler</artist>
+    <country>US</country>
+    <company>CNN</company>
+    <price>20.00</price>
+    <year>1998</year>
+  </item>
+  <item name="Cindy" size="">
+    <title></title>
+    <artist>Alice Cindy</artist>
+    <country>Japan</country>
+    <price>10.1</price>
+    <year>2005</year>
+  </item>
+</root>

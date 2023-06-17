@@ -1,0 +1,18 @@
+<root>
+<item>
+
+<food>
+<name>Belgian Waffles</name>
+<price>$5.95</price>
+<description>
+Two of our famous Belgian Waffles with plenty of real maple syrup
+</description>
+<description2>
+Only for lactose intolerants
+</description2>
+<calories>650</calories>
+</food>
+
+</item>
+</root>
+

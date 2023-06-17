@@ -1,0 +1,6 @@
+rename i2 school-2016-java-project-run
+rename i3 linux-slides-ch1-ch1-0
+rename i11 2017-linux-homework1-script
+move i2 /
+move i3 /school/2017/
+move i11 /school/

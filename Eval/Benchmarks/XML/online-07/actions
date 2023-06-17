@@ -1,0 +1,6 @@
+addAttribute e2 manufacturerCodeValue 00NS2
+addAttribute e4 manufacturerCodeValue 00NS3
+addAttribute e6 manufacturerCodeValue 00NS4
+modifyText e2 ''
+modifyText e4 ''
+modifyText e6 ''

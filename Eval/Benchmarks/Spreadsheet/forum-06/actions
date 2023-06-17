@@ -1,0 +1,16 @@
+fill China 1 1
+fill Mexico 2 1
+fill Canada 3 1
+fill USA 4 1
+
+fill 4 1 2
+fill 0 1 3
+
+fill 3 2 2
+fill 1 2 3
+
+fill 1 3 2
+fill 2 3 3
+
+fill 0 4 2
+fill 5 4 3

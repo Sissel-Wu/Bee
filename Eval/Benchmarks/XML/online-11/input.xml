@@ -1,0 +1,21 @@
+<root>
+	<item>
+		<name>OGRGeoJSON</name>
+		<Placemark>
+			<name>A RIVER</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+		</Placemark>
+		<Placemark>
+			<name>B RIVER</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+		</Placemark>
+		<Placemark>
+			<name>A RIVER</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+		</Placemark>
+		<Placemark>
+			<name>C RIVER</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+		</Placemark>
+    </item>
+</root>

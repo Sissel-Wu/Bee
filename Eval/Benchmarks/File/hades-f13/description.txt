@@ -1,0 +1,1 @@
+Organize all files based on their extensions

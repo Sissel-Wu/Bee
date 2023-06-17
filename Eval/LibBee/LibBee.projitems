@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>27e4d34d-98b6-44fd-a18e-7d4cb11297f2</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>LibBee</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Annotations\AnnotationTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Annotations\DataParser.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Annotations\EntityAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Annotations\FieldAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Annotations\FixedSizeFieldsAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Annotations\IdFieldAttribute.cs" />
+    <Compile Include="..\LibBee\Annotations\ActionAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Bottom\Basic.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Bottom\BeeApi.cs" />
+    <Compile Include="..\LibBee\Model\ActionCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Program.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\BeeColumn.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\BeeRow.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\BeeTable.cs" />
+    <Compile Include="..\LibBee\ActionRecorder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Synthesizer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)dll\BeeInterfaces.dll" />
+    <Content Include="$(MSBuildThisFileDirectory)dll\BeeInterfaces.exp" />
+    <Content Include="$(MSBuildThisFileDirectory)dll\BeeInterfaces.lib" />
+  </ItemGroup>
+</Project>

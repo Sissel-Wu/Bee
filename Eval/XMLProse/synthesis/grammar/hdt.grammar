@@ -1,0 +1,18 @@
+using XMLProse;
+using LibProse.hades;
+using semantics XMLProse.synthesis.HDTSemantics;
+using learners XMLProse.synthesis.HDTWitnessFunctions;
+
+language hdtXML;
+
+@input IEnumerable<XmlPath> inputs;
+
+@start ISet<Tuple<XmlPath, XmlPath>> multiPrograms := Cons(singleProgram, multiPrograms) | EmptyProgram();
+IEnumerable<Tuple<XmlPath, XmlPath>> singleProgram := @id['LetTerm'] let term: PathTerm<XmlNode, XmlPath> = pathTerm in 
+    MapTransform(transform, filteredPaths) = Map(\x: XmlPath => transform, filteredPaths);
+Tuple<XmlPath, XmlPath> transform := ApplyTransform(term, x);
+IEnumerable<XmlPath> filteredPaths := FilterPaths(pred, inputs);
+
+IPred<XmlNode, XmlPath> pred;
+PathTerm<XmlNode, XmlPath> pathTerm;
+

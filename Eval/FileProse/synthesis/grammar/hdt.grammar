@@ -1,0 +1,17 @@
+using FileProse;
+using LibProse.hades;
+using semantics FileProse.synthesis.HDTSemantics;
+using learners FileProse.synthesis.HDTWitnessFunctions;
+
+language hdtFile;
+
+@input IEnumerable<FilePath> inputs;
+
+@start ISet<Tuple<FilePath, FilePath>> multiPrograms := Cons(singleProgram, multiPrograms) | EmptyProgram();
+IEnumerable<Tuple<FilePath, FilePath>> singleProgram := @id['LetTerm'] let term: PathTerm<FileNode, FilePath> = pathTerm in 
+    MapTransform(transform, filteredPaths) = Map(\x: FilePath => transform, filteredPaths);
+Tuple<FilePath, FilePath> transform := ApplyTransform(term, x);
+IEnumerable<FilePath> filteredPaths := FilterPaths(pred, inputs);
+
+IPred<FileNode, FilePath> pred;
+PathTerm<FileNode, FilePath> pathTerm;

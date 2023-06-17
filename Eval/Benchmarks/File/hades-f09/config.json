@@ -1,0 +1,11 @@
+{
+  "const strings": ["mp3", "wma", "m4a", "ogg"],
+  "bee": {
+    "input example": "input.csv",
+    "output example": "actions"
+  },
+  "prose": {
+    "input example": "input.csv",
+    "output example": "output.csv"
+  }
+}

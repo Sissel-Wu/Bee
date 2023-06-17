@@ -1,0 +1,1 @@
+Remove items whose text in tag 'name' is not 'A RIVER'.

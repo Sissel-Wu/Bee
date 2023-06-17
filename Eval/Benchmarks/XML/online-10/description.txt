@@ -1,0 +1,1 @@
+Remove string in text which is comment.

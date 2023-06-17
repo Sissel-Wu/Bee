@@ -1,0 +1,15 @@
+<root>
+
+<item>
+<topicref format="dita" type="task" href="taskCreateNewUser.dita"/>
+</item>
+
+<item>
+<topicref format="aaaa" type="task" href="taskCreateNewUser.aaaa"/>
+</item>
+
+<item>
+<topicref format="bbbb" type="task" href="taskCreateNewUser.bbbb"/>
+</item>
+
+</root>

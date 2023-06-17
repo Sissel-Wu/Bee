@@ -1,0 +1,11 @@
+{
+  "const strings": ["IssueDate", "-", ""],
+  "bee": {
+    "input example": "input.xml",
+    "output example": "actions"
+  },
+  "prose": {
+    "input example": "input.xml",
+    "output example": "output.xml"
+  }
+}

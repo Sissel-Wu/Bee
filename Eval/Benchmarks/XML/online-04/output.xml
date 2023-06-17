@@ -1,0 +1,14 @@
+<root>
+
+<item>
+<BoundLabel layout="370,225,50,25" font="bold 11.0pt Tahoma" foreground="green" halign="left" mouseOver="highlight"></BoundLabel>
+</item>
+
+<item>
+<BoundLabel layout="170,325,51,25" font="bold 13.0pt Tahoma" foreground="red" halign="left" mouseOver="highlight"></BoundLabel>
+</item>
+
+<item>
+<BoundLabel layout="270,425,52,25" font="bold 10.0pt Tahoma" foreground="green" halign="left" mouseOver="highlight"></BoundLabel>
+</item>
+</root>

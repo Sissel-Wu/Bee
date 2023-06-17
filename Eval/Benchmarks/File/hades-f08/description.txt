@@ -1,0 +1,1 @@
+Make files in “DoNotModify” directory read-only

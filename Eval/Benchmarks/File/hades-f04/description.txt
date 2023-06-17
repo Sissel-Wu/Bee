@@ -1,0 +1,1 @@
+Append last 3 directory names to file name and delete directories

@@ -1,0 +1,1 @@
+Change group of text files in "Public" directory to "everyone"

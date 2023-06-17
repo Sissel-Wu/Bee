@@ -1,0 +1,11 @@
+{
+  "is_int_row_head": true,
+  "bee": {
+    "input example": "input.csv",
+    "output example": "actions"
+  },
+  "prose": {
+    "input example": "in.xlsx",
+    "output example": "out.xlsx"
+  }
+}

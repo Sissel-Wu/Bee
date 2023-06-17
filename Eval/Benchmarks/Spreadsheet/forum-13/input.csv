@@ -1,0 +1,45 @@
+i1,1,1,Department,,black,white,HR,FALSE,TRUE
+i2,1,2,Employee Class,,black,white,AD,FALSE,TRUE
+i3,1,3,Project1,,black,white,2000.0,FALSE,TRUE
+i4,1,4,Project2,,black,white,5000.0,FALSE,TRUE
+i5,1,5,Project3,,black,white,0.0,FALSE,TRUE
+i6,2,1,Department,,black,white,HR,FALSE,TRUE
+i7,2,2,Employee Class,,black,white,AC,FALSE,TRUE
+i8,2,3,Project1,,black,white,1000.0,FALSE,TRUE
+i9,2,4,Project2,,black,white,1000.0,FALSE,TRUE
+i10,2,5,Project3,,black,white,0.0,FALSE,TRUE
+i11,3,1,Department,,black,white,HR,FALSE,TRUE
+i12,3,2,Employee Class,,black,white,CI,FALSE,TRUE
+i13,3,3,Project1,,black,white,4000.0,FALSE,TRUE
+i14,3,4,Project2,,black,white,2000.0,FALSE,TRUE
+i15,3,5,Project3,,black,white,0.0,FALSE,TRUE
+i16,4,1,Department,,black,white,Accounting,FALSE,TRUE
+i17,4,2,Employee Class,,black,white,AC,FALSE,TRUE
+i18,4,3,Project1,,black,white,0.0,FALSE,TRUE
+i19,4,4,Project2,,black,white,0.0,FALSE,TRUE
+i20,4,5,Project3,,black,white,3000.0,FALSE,TRUE
+i21,5,1,Department,,black,white,Accounting,FALSE,TRUE
+i22,5,2,Employee Class,,black,white,CO,FALSE,TRUE
+i23,5,3,Project1,,black,white,3000.0,FALSE,TRUE
+i24,5,4,Project2,,black,white,0.0,FALSE,TRUE
+i25,5,5,Project3,,black,white,2000.0,FALSE,TRUE
+i26,6,1,Department,,black,white,Accounting,FALSE,TRUE
+i27,6,2,Employee Class,,black,white,BC,FALSE,TRUE
+i28,6,3,Project1,,black,white,2000.0,FALSE,TRUE
+i29,6,4,Project2,,black,white,0.0,FALSE,TRUE
+i30,6,5,Project3,,black,white,1000.0,FALSE,TRUE
+i31,7,1,Department,,black,white,Accounting,FALSE,TRUE
+i32,7,2,Employee Class,,black,white,CD,FALSE,TRUE
+i33,7,3,Project1,,black,white,1000.0,FALSE,TRUE
+i34,7,4,Project2,,black,white,0.0,FALSE,TRUE
+i35,7,5,Project3,,black,white,0.0,FALSE,TRUE
+i36,8,1,Department,,black,white,IT,FALSE,TRUE
+i37,8,2,Employee Class,,black,white,AD,FALSE,TRUE
+i38,8,3,Project1,,black,white,0.0,FALSE,TRUE
+i39,8,4,Project2,,black,white,1000.0,FALSE,TRUE
+i40,8,5,Project3,,black,white,2000.0,FALSE,TRUE
+i41,9,1,Department,,black,white,IT,FALSE,TRUE
+i42,9,2,Employee Class,,black,white,CI,FALSE,TRUE
+i43,9,3,Project1,,black,white,0.0,FALSE,TRUE
+i44,9,4,Project2,,black,white,2000.0,FALSE,TRUE
+i45,9,5,Project3,,black,white,2000.0,FALSE,TRUE

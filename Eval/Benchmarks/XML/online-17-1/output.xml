@@ -1,0 +1,8 @@
+<root>
+    <item>
+        <partRef manufacturerCodeValue="KZ777" partNumberValue="LRU1010"/>
+    </item>
+    <item>
+        <partRef manufacturerCodeValue="KZ888" partNumberValue="LRU2020"/>
+    </item>
+</root>

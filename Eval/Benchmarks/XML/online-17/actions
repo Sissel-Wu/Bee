@@ -1,0 +1,4 @@
+deleteE e2
+deleteE e4
+addAttribute e3 manufacturerCode KZ777
+addAttribute e3 partNumber LRU1010

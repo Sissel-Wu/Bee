@@ -1,0 +1,10 @@
+{
+  "bee": {
+    "input example": "input.csv",
+    "output example": "actions"
+  },
+  "prose": {
+    "input example": "input.csv",
+    "output example": "output.csv"
+  }
+}

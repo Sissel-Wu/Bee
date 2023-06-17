@@ -1,0 +1,9 @@
+<root>
+  <item>
+    <book>
+      <title font="arial" Textsize="12">The big book</title>
+      <price>10.90</price>
+      <year>1985</year>
+    </book>
+  </item>
+</root>

@@ -1,0 +1,1 @@
+Copy each file to the directory created with its file name

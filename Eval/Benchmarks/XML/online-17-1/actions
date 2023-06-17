@@ -1,0 +1,8 @@
+deleteE e2
+deleteE e4
+deleteE e6
+deleteE e8
+addAttribute e3 manufacturerCode KZ777
+addAttribute e7 manufacturerCode KZ888
+addAttribute e3 partNumber LRU1010
+addAttribute e7 partNumber LRU2020

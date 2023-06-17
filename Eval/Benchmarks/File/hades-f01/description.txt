@@ -1,0 +1,1 @@
+Categorize .csv files based on their group
